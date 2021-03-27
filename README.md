@@ -4,4 +4,4 @@
 
 **Add New Place Screenshot:**
 
-![Screenshot](addPlace.png)
+![Screenshot](lib/addPlace.png)
