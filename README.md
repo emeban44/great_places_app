@@ -4,4 +4,4 @@
 
 **Add New Place Screenshot:**
 
-![Screenshot](appScreenshot.png)
+![Screenshot](appScreenshot.png) ;
